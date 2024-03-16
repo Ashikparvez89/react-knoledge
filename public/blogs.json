@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "The Art of Programming",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/n8w5Bv5/ber-img.jpg",
+      "reading_times": 120,
+      "posted_date": "2024-03-16",
+      "hashtag": ["programming", "coding", "software"],
+      "cover": "https://i.ibb.co/F00ct71/entrepreneur-startup-business-owner-attractive-asian-female-business-woman-communication-with-smartp.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Cooking with Passion",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/RzwzVXn/ber-img1.jpg",
+      "reading_times": 90,
+      "posted_date": "2024-03-15",
+      "hashtag": ["cooking", "food", "recipes"],
+      "cover": "https://i.ibb.co/3cgQnS6/banner2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Traveling the World",
+      "author": "David Johnson",
+      "author_img": "https://i.ibb.co/Qdjg3d4/ber-img2.jpg",
+      "reading_times": 150,
+      "posted_date": "2024-03-14",
+      "hashtag": ["travel", "adventure", "explore"],
+      "cover": "https://i.ibb.co/XVQV0zC/high-angle-laptop-books-arrangement.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Fitness for Life",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/RzwzVXn/ber-img1.jpg",
+      "reading_times": 100,
+      "posted_date": "2024-03-13",
+      "hashtag": ["fitness", "health", "exercise"],
+      "cover": "https://i.ibb.co/F00ct71/entrepreneur-startup-business-owner-attractive-asian-female-business-woman-communication-with-smartp.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Art of Mindfulness",
+      "author": "Michael Wilson",
+      "author_img": "https://i.ibb.co/n8w5Bv5/ber-img.jpg",
+      "reading_times": 80,
+      "posted_date": "2024-03-12",
+      "hashtag": ["mindfulness", "meditation", "wellness"],
+      "cover": "https://i.ibb.co/F00ct71/entrepreneur-startup-business-owner-attractive-asian-female-business-woman-communication-with-smartp.jpg"
+    }
+  ]
+  
