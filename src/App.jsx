@@ -14,7 +14,7 @@ function App() {
  
     <div className="container mx-auto">
       <Heads></Heads>
-      <div className="flex">
+      <div className="flex justify-between gap-10">
         <Blogs></Blogs>
         <Bookmarks></Bookmarks>
       </div>
